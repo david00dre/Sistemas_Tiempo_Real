@@ -2,7 +2,7 @@
 Asignatura de Sistemas en Tiempo Real
 
 
-## PRACTICAS
-# Primera Práctica
+# PRACTICAS
+## Primera Práctica
 
 Crear clases para su posterior utilización. Dividida en dos partes: la primera para los hilos y la segunda semáforos.
